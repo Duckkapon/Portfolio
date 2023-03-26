@@ -1,4 +1,4 @@
-baseURL = "https://Duckkapon.github.io/Portfolio"
+baseURL = "https://Duckkapon.github.io/Portfolio/"
 languageCode = "en"
 title = "Duckkapon.T"
 theme = "hugo-initio"
