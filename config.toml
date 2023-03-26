@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Duckkapon.T"
 theme = "hugo-initio"
 
-canonlifyURLs = false
+canonlifyURLs = true
 
 [params]
     name = "Pakkapon Tontiwich"
