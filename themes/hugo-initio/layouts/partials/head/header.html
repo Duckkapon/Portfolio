@@ -1,0 +1,26 @@
+<header id="header">
+    <div id="head" class="parallax" data-parallax-speed="2" style="background-image:url('{{ .Site.BaseURL }}{{ .Site.Params.banner }}');">
+        <h1 id="logo" class="text-center">
+            <!--<img class='img-{{ .Site.Params.avatarclass | default "circle"}}' src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}" alt="">-->
+            <span class="title">{{ .Site.Params.name }}</span>
+            <span class="tagline">
+                {{ .Site.Params.description }}<br><br>
+                {{ .Site.Params.detail }}<br><br>
+                <!--<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>-->
+            </span>
+            <span class="widget-body">
+                <p class="follow-me-icons">
+                    {{ range .Site.Params.social }}
+						{{ if .footer }}
+							<a href="{{ .url }}" target="_blank"><i class="{{ .icon }} fa-1x"></i></a>
+						{{ end }}
+                    {{ end }}
+				</p>
+            </span>
+
+        </h1>
+    </div>
+
+    {{ partial "head/menu.html" . }}
+
+</header>

@@ -1,0 +1,44 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">{{ .Site.Params.aka }}</a>
+        </div>
+
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+
+            <ul class="nav navbar-nav">
+            {{ range .Site.Menus.main }}
+                {{ if .HasChildren }}
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            {{ .Name }}<b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            {{ range .Children }}
+                            <li>
+                                <a href="{{ .URL | relLangURL }}" {{ if $.IsHome }} data-target="{{ .URL }}" {{ end }}>
+                                    {{ .Name }}
+                                </a>
+                            </li>
+                            {{end}}
+                        </ul>
+                    </li>
+                {{ else }}
+                    <li>
+                        <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                    </li>
+                {{ end }}
+            {{ end}}
+            </ul>
+
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+</nav>
