@@ -1,36 +1,44 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
-        "image": "images/s1.jpg",
-        "url": "https://www.google.com",
+        "name": "The Factors Influencing to be an Entrepreneurs",
+        "image": "images/The-Factors-Influencing-to-be-an-Entrepreneurs.jpg",
+        "url": "https://github.com/Duckkapon/The-Factors-Influencing-to-be-an-Entrepreneurs/blob/main/The-Factors-Influencing-to-be-an-Entrepreneurs.ipynb",
         "items": [
             {
-                "name": "Web design",
+                "name": "Statistics",
                 "url": "#"
             },
             {
-                "name": "Wordpress",
+                "name": "Analytics",
                 "url": "#"
             },
             {
-                "name": "Logotype",
+                "name": "Python",
+                "url": "#"
+            },
+            {
+                "name": "Stata",
                 "url": "#"
             }
         ]
     },
     {
         "id": 1,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Top 10 Popular Games in Apple Store",
+        "image": "images/Top-10-Popular-Games-in-Apple-Store.jpg",
+        "url": "https://github.com/Duckkapon/Top-10-Popular-Games-in-Apple-Store",
         "items": [
             {
-                "name": "Web design",
+                "name": "Python",
                 "url": "#"
             },
             {
-                "name": "Wordpress",
+                "name": "Data preprocessing",
+                "url": "#"
+            },
+            {
+                "name": "Machine learning",
                 "url": "#"
             }
         ]

@@ -12,7 +12,7 @@
             <span class="details">
                 {{ $len := sub (len .items) 1 }}
                 {{ range $i, $item := where .items "id" .index }}
-                    <a href="{{ .url }}">{{ .name }}</a>
+                    <a>{{ .name }}</a>
                     {{ if gt $len $i }} | {{ end }}
                 {{ end }}
             </span>
