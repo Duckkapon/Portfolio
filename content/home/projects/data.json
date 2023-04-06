@@ -45,66 +45,31 @@
     },
     {
         "id": 2,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Customer Segmentation with Unsupervised Machine Learning",
+        "image": "images/Customer Segmentation with Unsupervised Machine Learning.jpg",
+        "url": "https://github.com/Duckkapon/Customer_Segmentation_with_Unsupervised_Machine_Learning/blob/main/Customer_Segmentation_with_Unsupervised_Machine_Learning.ipynb",
         "items": [
             {
-                "name": "Web design",
+                "name": "Python",
                 "url": "#"
             },
             {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
+                "name": "Feature Engineering",
                 "url": "#"
             },
             {
-                "name": "Wordpress",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
+                "name": "Data preprocessing",
                 "url": "#"
             },
             {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
+                "name": "Clustering",
                 "url": "#"
             },
             {
-                "name": "Logotype",
+                "name": "Machine Learning",
                 "url": "#"
             }
         ]
     }
+    
 ]
