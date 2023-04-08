@@ -25,9 +25,9 @@
     },
     {
         "id": 1,
-        "name": "Top 10 Popular Games in Apple Store",
-        "image": "images/Top-10-Popular-Games-in-Apple-Store.jpg",
-        "url": "https://github.com/Duckkapon/Top-10-Popular-Games-in-Apple-Store",
+        "name": "Credit Card Fraud Detection Comparing Models",
+        "image": "images/Credit Card Fraud Detection Comparing Models.jpg",
+        "url": "https://github.com/Duckkapon/Credit_Card_Fraud_Detection_Comparing_models",
         "items": [
             {
                 "name": "Python",
@@ -67,6 +67,26 @@
             },
             {
                 "name": "Machine Learning",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Top 10 Popular Games in Apple Store",
+        "image": "images/Top-10-Popular-Games-in-Apple-Store.jpg",
+        "url": "https://github.com/Duckkapon/Top-10-Popular-Games-in-Apple-Store",
+        "items": [
+            {
+                "name": "Python",
+                "url": "#"
+            },
+            {
+                "name": "Data preprocessing",
+                "url": "#"
+            },
+            {
+                "name": "Machine learning",
                 "url": "#"
             }
         ]
