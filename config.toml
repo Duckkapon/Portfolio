@@ -49,7 +49,7 @@ canonlifyURLs = true
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "G-5ZY5HZWP6D"
 
 [[params.social]]
 	title = "facebook"
