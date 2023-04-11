@@ -23,8 +23,8 @@ canonlifyURLs = true
     author = "Sergey Pozhilov (GetTemplate.com)"
 
     showSubheader = true
-    showBlogs = true
     showProjects = true
+    showBlogs = true
     showDownloads = false
     showClients = false
 

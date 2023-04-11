@@ -10,7 +10,7 @@
         {{ range .Site.Sections }}
             {{ range .Sections.ByWeight }}
                 {{ $stype := .Type}}
-                {{ if (or (and (eq $stype "blog") (.Site.Params.showBlogs))
+                {{ if (or (and (eq $stype "project") (.Site.Params.showProjects))           (and (eq $stype "blog") (.Site.Params.showBlogs))
                           (and (eq $stype "project") (.Site.Params.showProjects))
                           (and (eq $stype "download") (.Site.Params.showDownloads))
                           (and (eq $stype "client") (.Site.Params.showClients))

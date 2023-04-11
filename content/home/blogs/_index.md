@@ -1,6 +1,6 @@
 +++
 title = "Blogs"
 type = "blog"
-weight = 1
+weight = 2
 +++
 
