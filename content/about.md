@@ -11,7 +11,8 @@ My name is HUI, I am a data enthusiast with a passion for exploring and analyzin
 ![about](../images/mac.jpg)
 
 ### Work Experiences
-- [Data Analyst | Jun 2022 - Apr 2023](https://duckkapon.github.io/Portfolio/home/blogs/001-data-analyst-experience/)
+- [Data Analyst | Jun 2022 - Apr 2023](../home/blogs/001-data-analyst-experience/)
+<!-->(https://duckkapon.github.io/Portfolio/home/blogs/001-data-analyst-experience/)<-->
 
 ### Educations
 - Chulalongkorn University, Bangkok, Thailand | Aug 2022 - May 2024 (Expected)\
