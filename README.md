@@ -1,6 +1,7 @@
 # Portfolio
 This repository contains my notebook prepared for writing articles
 
-|No.|Title|Colab|Github|Website|
+|No.|Title|Notebook|Github|Website|
 |---|---|---|---|---|
-|1|Missing data 101 - part 1|[![Alt text](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Duckkapon/Portfolio/blob/main/Missing_Data_101.ipynb)|[Github](https://github.com/Duckkapon/Portfolio/blob/main/Missing_Data_101.ipynb)|[link](https://pakkapontontiwich.wordpress.com/2023/12/04/missing-data-101-part-1-understanding-the-missing-data/)
+|1|Missing data 101 - part 1|[Colab](https://colab.research.google.com/github/Duckkapon/Portfolio/blob/main/Missing_Data_101.ipynb)|[Github](https://github.com/Duckkapon/Portfolio/blob/main/Missing_Data_101.ipynb)|[link](https://pakkapontontiwich.wordpress.com/2023/12/04/missing-data-101-part-1-understanding-the-missing-data/)
+|2|Credit Clustering: Define Marketing Strategy Approach|[Kaggle](https://www.kaggle.com/pakkapontontiwich/develop-customer-segmentation-to-define-marketing)|[Github](https://github.com/Duckkapon/Portfolio/blob/main/develop_customer_segmentation_to_define_marketing.ipynb)|[Link](https://pakkapontontiwich.wordpress.com/2023/12/07/credit-clustering-define-marketing-strategy-approach-through-customer-insights-analysis/)
